@@ -1,0 +1,21 @@
+[
+{
+  "modid": "Zophar",
+  "name": "Zophar",
+  "description": "",
+  "version": "0.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "bjowi"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
